@@ -18,6 +18,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues&show_icons=true" />
 </picture>
 
+<div align = right>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-marceloprodrigues&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="msql logo"  />
