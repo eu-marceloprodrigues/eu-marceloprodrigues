@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋🏾! Me chamo Marcelo Pereira😊  </h2>
+<h2 align="left">Olá! Marcelo Pereira aqui😊👋🏾  </h2>
 <h3 aling= "left" bold= "False">Estudante e futuro desenvolvedor back-end.🎯🚀</h3>
 <ul>
 <li>👨🏾‍💻 Atualmente estou aprendendo Python e MySQL.</li>
