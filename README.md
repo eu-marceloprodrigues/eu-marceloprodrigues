@@ -6,7 +6,17 @@
 <li>🟢 Tenho interesse em aprender frameworks como Flask, Django e FastAPI e levar meus projetos para outro nível.</li>
 </ul>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues&show_icons=true" />
+</picture>
 
 <div align="left">
 
