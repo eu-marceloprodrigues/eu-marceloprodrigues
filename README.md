@@ -24,10 +24,10 @@
 <p></p>
 
 <div> <a href="https://github.com/eu-marceloprodrigues/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues&show_icons=true&theme=aura" />
 </a>
 <a href="https://github.com/eu-marceloprodrigues/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eu-marceloprodrigues&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eu-marceloprodrigues&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=aura" />
 </a></div>
 
 ###
