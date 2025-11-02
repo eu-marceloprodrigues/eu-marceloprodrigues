@@ -6,22 +6,14 @@
 <li>🟢 Tenho interesse em aprender frameworks como Flask, Django e FastAPI e levar meus projetos para outro nível.</li>
 </ul>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues&show_icons=true" />
-</picture>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://instagram.com/programando.como.noob" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="mailto:eu.marceloprodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/marcelo-pereira-rodrigues" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 
-<div align = right>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-marceloprodrigues&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
+<p></p>  
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="msql logo"  />
@@ -29,12 +21,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+<p></p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://instagram.com/programando.como.noob" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <a href="mailto:eu.marceloprodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/marcelo-pereira-rodrigues" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div> <a href="https://github.com/eu-marceloprodrigues/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/eu-marceloprodrigues/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eu-marceloprodrigues&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a></div>
 
 ###
