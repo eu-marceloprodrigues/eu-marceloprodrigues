@@ -7,12 +7,13 @@
 <li>🟢 Tenho interesse em aprender frameworks como Flask, Django e FastAPI e levar meus projetos para outro nível.</li>
 </ul>
 
-<p align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://instagram.com/programando.como.noob" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <a href="mailto:eu.marceloprodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/marcelo-pereira-rodrigues" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  ></a>  
+  <a href="https://instagram.com/programando.como.noob" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" ></a> 
+  <a href="mailto:eu.marceloprodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" ></a> 
+  <a href="https://eu-marceloprodrigues.github.io/Meu-portifolio/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" height="35" alt="gitpages logo" ></a>    
+  <a href="https://www.linkedin.com/in/marcelo-pereira-rodrigues" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  ></a>
+</div>
 
 ---
 
