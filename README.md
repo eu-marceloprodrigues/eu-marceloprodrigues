@@ -6,7 +6,7 @@
 <li>🟢 Tenho interesse em aprender frameworks como Flask, Django e FastAPI e levar meus projetos para outro nível.</li>
 </ul>
 
-###
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-marceloprodrigues)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
 
