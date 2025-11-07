@@ -4,7 +4,7 @@
 <p>Ola pessoal do Git! me chamo Marcelo, tenho 31 anos e sou um futuro de desenvolvedor backend em constante evolução. Aqui de casa, em Marília, interior de São Paulo,
   estou me aprofundando em Python e MySQL,com o objetivo de criar soluções que unam tecnologia, desempenho e propósito — impactando o máximo de pessoas possível. 
   Tenho curiosidade por frameworks como Flask, Django e FastAPI, e quero transformar meus aprendizados em projetos reais que
-  façam a diferença.</p>
+  façam a diferença.🤩 </p>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  ></a>  
